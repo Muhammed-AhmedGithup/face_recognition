@@ -1,5 +1,5 @@
-from flask import Flask
-import utils
+from flask import Flask, request
+
 app = Flask(__name__)
 
 @app.route('/')
