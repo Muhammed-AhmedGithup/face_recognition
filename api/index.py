@@ -23,3 +23,5 @@ def classify_image():
 if __name__ == '__main__':
     utils.load_artifactes()
     app.run()
+
+#ddddd
